@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: "The words unsaid"
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 categories: [hello world]
 comments: true
@@ -11,8 +11,6 @@ image:
 ---
 
 ## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1
 
@@ -28,7 +26,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### Body text
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+回国已经快两个月，到家都已经一个月了，再次在家待这么久也是难得。连过路市民王先生都说，“你也好些年没在家多待着了，这次多住住增加点儿**烟火气**，也挺好”。不知他以为我之前是在怎样的深山里十指不沾阳春水地生活，但这次回国也真是感触颇深。我觉得Lulu Wang拍的电影还不够深刻，就我这一代移民回国探亲的文化冲击和归属寻觅，就比电影还要有趣。
 
 ![Smithsonian Image](https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250)
 
